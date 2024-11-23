@@ -1,0 +1,31 @@
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Dependências do Node
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Logs e arquivos temporários
+*.log
+*.tmp
+*.lock
+*.swp
+
+# Build
+dist/
+build/
+
+# IDEs e editores de código
+.vscode/
+.idea/
+*.sublime-workspace
+
+# Variáveis de ambiente e configurações
+config.env
+.env.local
+.env.*.local
+
+# Ignorar pasta 'seed'
+seed/
